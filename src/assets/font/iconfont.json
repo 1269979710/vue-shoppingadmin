@@ -1,0 +1,23 @@
+{
+  "id": "2285124",
+  "name": "京西商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6548523",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "8338690",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    }
+  ]
+}
